@@ -41,5 +41,14 @@
         腾讯：http://www.alloyteam.com/  
         百度：http://fex.baidu.com/  
         凹凸：https://aotu.io/  
-        
+
+>个人收藏系列：  
+
+        知乎前端相关：https://www.zhihu.com/collection/82487032
+        前端面试：https://zhuanlan.zhihu.com/p/54397576
+        数组排序思想：https://www.cnblogs.com/beli/p/6297741.html
+        编码规范 ：https://gitee.com/iwensxt/encodingspec
+        ES6、ES7、ES8、ES9、ES10新特性一览：https://juejin.im/post/5ca2e1935188254416288eb2
+        前端常用插件、工具类库汇总：https://juejin.im/post/5ba7d5dd5188255c6140cc9d
+
 >建议、疑问、更好的东西分享 -> guangyuan_y@163.com
